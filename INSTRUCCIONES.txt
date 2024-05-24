@@ -1,0 +1,7 @@
+Descargar python 3.12.2
+C:\Users\MONCAYO\Desktop\CHATBOT ESTATUTO
+pip install nltk
+pip install Flask-Session
+python chatbot.py
+
+
